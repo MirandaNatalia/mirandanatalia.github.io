@@ -1,6 +1,7 @@
 body{
  
   margin-top: 10vh;
+  background-image:linear-gradient(rgba(214, 248, 253, 0.284),#f7f4d315);
   
 }
 
@@ -81,7 +82,7 @@ body{
 
 .perfil{
   
-  margin-top: 7em;
+  margin-top: 10em;
 }
 
 .investigaciónSH{
