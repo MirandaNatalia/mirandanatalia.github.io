@@ -6,14 +6,26 @@ body{
 }
 
 
-/* Nav bar */
+/* Nav bar 
 @media (min-width: 768px) {
   .view {
       overflow: visible;
       margin-top: -56px;
-      
   }
 }
+*/
+
+@media (min-width: 375px) {
+.title {
+    font-size: 7vw;
+    font-weight: 900;
+    bottom: 4.1em;
+    margin-left: 1.7em;
+  }
+}
+    
+
+
 .navbar {
   box-shadow:none;
   background-color: transparent;
@@ -111,8 +123,8 @@ body{
 
 
 .h2-responsive{
-  font-size: 5vh;
-  margin-top: 2vh;
+  font-size: 5em;
+  margin-top: 5em;
 }
 
 p{
