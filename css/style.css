@@ -479,4 +479,6 @@ h3{
 }
 
 
-
+.badge-dark{
+  border-radius: 5px;
+}
