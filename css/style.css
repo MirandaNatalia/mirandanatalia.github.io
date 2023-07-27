@@ -156,7 +156,7 @@ h1{
   
 }
 .text-title{
-  font-size: 4em;
+  font-size: 3em;
 
 }
 
@@ -196,7 +196,7 @@ h1{
 =            Section 2  What I do        =
 =============================================*/
 
-/* Gradient sección 2 */
+/* Gradient secciÃ³n 2 */
 #whatIdo{
   background-image: linear-gradient(#f7f4d3,#55b9bd13);
   padding-bottom: 5rem;
@@ -267,7 +267,7 @@ h2, h5{
 #UX-UI{
   font-size: 20px;
 }
-/* Fin Párrafo */
+/* Fin PÃ¡rrafo */
 
 
 .text-wid{
@@ -286,14 +286,14 @@ h2, h5{
   z-index: 10;
 }
 
-/*=====  Fin Sección What I Do ======*/
+/*=====  Fin SecciÃ³n What I Do ======*/
 
 
 /*=============================================
 =            Section projects            =
 =============================================*/
 
-/*===== botón======*/
+/*===== botÃ³n======*/
 .more-link[data-v-0ee9defb] {
   background-image: url(../assets/img/flecha\ derecha.png);
   background-size: 1.2em;
@@ -336,7 +336,6 @@ h2, h5{
     margin-top: 5vh;   
     background-color: #ff69617e;
 }
-
 /* Img fondo proyecto keeper */
 #p1{
   max-width: 100%;
@@ -390,7 +389,19 @@ h2, h5{
    }
   
   }
-  
+
+  /*red social img */
+    .imgRedsocial{
+   
+     }
+    
+    
+
+
+
+
+
+
 /* Title projects */
 h3{
   font-size: 8vh;
@@ -467,6 +478,3 @@ h3{
 }
 
 
-.badge-dark{
-  border-radius: 5px;
-}
